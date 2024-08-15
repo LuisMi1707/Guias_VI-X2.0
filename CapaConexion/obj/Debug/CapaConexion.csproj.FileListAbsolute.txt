@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\GUIAS PROGRA 2\CapaConexion\CapaConexion\bin\Debug\CapaConexion.exe.config
+C:\Users\HP\OneDrive\GUIAS PROGRA 2\CapaConexion\CapaConexion\bin\Debug\CapaConexion.exe
+C:\Users\HP\OneDrive\GUIAS PROGRA 2\CapaConexion\CapaConexion\bin\Debug\CapaConexion.pdb
+C:\Users\HP\OneDrive\GUIAS PROGRA 2\CapaConexion\CapaConexion\obj\Debug\CapaConexion.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\GUIAS PROGRA 2\CapaConexion\CapaConexion\obj\Debug\CapaConexion.Form1.resources
+C:\Users\HP\OneDrive\GUIAS PROGRA 2\CapaConexion\CapaConexion\obj\Debug\CapaConexion.Properties.Resources.resources
+C:\Users\HP\OneDrive\GUIAS PROGRA 2\CapaConexion\CapaConexion\obj\Debug\CapaConexion.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\GUIAS PROGRA 2\CapaConexion\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\GUIAS PROGRA 2\CapaConexion\CapaConexion\obj\Debug\CapaConexion.exe
+C:\Users\HP\OneDrive\GUIAS PROGRA 2\CapaConexion\CapaConexion\obj\Debug\CapaConexion.pdb
